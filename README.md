@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/063f99b4-eb89-4214-91fd-ddf2f89d0c5f
+
 # Crypto AI Assistant
 
 A multilingual cryptocurrency assistant powered by LLaMA 3.1 and real-time price data. The assistant provides cryptocurrency information and price updates while handling multiple languages through an intuitive chat interface.
