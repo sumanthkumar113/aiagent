@@ -1,0 +1,11 @@
+streamlit==1.32.0
+together==0.2.7
+python-dotenv==1.0.1
+plotly==5.18.0
+pandas==2.2.1
+numpy==1.26.4
+requests==2.31.0
+python-dateutil==2.8.2
+aiohttp==3.9.3
+ujson==5.9.0
+functools-lru-cache==1.6.4
